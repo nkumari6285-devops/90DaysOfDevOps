@@ -9,14 +9,20 @@ DevOps is evlove practive of software development right from planning of product
 Cloud saves on-premises operation charges for the infrastructure setup cost . Cloud access gives the end user more learning and exploring new features on click as well as open source collaboration.
 
 Why are you starting learning DevOps & Cloud?
+
+
 I am devops engineer but my concepts are not clear .I am not confident in day today task of devops thats why I want to learn it and do excel in my career.
 
 
 Where do you want to reach?
+
+
 I want to work in Europe with good career opportunities. I want to get high pay job 30 LPA in India for product based company.
 
 
 How will you stay consistent every single day?
+
+
 I commit myself to have task completed before dinner everyday.
 
 
